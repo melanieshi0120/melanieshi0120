@@ -9,7 +9,7 @@ deep learning, and NLP. With a background in Economics and Data Science, I bring
 Machine Learning, and statistical skills as well as a passion for delivering valuable data through analytical 
 functions and data retrieval methods. 
 ## Languages
-Fluent in English, Chinese, and Korean.
+Fluent in English 🇺🇸, Chinese 🇨🇳, and Korean 🇰🇷.
 ## Information
 Email [📬](melaniesoek0120@gmail.com)  Blog [🧾](https://medium.com/@melaniesoek0120)  Linkedin [👩](http://www.linkedin.com/in/melanieseok-huashi)
 ## Technical Skills
@@ -20,7 +20,7 @@ Python, OOP, SQL, Pandas, NumPy, Statsmodels, Matplotlib, Seaborn, Tensorflow, K
 [Intro_GitHub_API_Data_Extraction](https://github.com/melanieshi0120/Intro_GitHub_API_Data_Extraction),
 [PCA -_Facial_Recognition](https://github.com/melanieshi0120/Principal_Component_Analysis-PCA-_Facial_Recognition),
 [DNA Variation Classification](https://github.com/melanieshi0120/DNA_project),
-[Time Series Panel Data](https://github.com/melanieshi0120/DKHS),
+[Time Series Panel Data](https://github.com/melanieshi0120/DKHS)
 
 
 
