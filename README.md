@@ -14,7 +14,7 @@ functions and data retrieval methods.
 ## Languages
 Fluent in English, Chinese, and Korean.
 ## Information
-Email [📬](melaniesoek0120@gmail.com), Blog [🧾](https://medium.com/@melaniesoek0120), Linkedin [👩](http://www.linkedin.com/in/melanieseok-huashi)
+Email [📬](melaniesoek0120@gmail.com)  Blog [🧾](https://medium.com/@melaniesoek0120)  Linkedin [👩](http://www.linkedin.com/in/melanieseok-huashi)
 ## Technical Skills
 Python, OOP, SQL, Pandas, NumPy, Statsmodels, Matplotlib, Seaborn, Tensorflow, Keras, PyTorch, SciPy, Tableau, Google Analytics, MySQL, R, Excel, Machine Learning, Deep Learning, Statistical Analysis, NLP, Web Scraping, API Call
 ## Projects
