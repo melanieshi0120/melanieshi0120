@@ -1,5 +1,5 @@
 # Data Scientist|Data Engineer|Machine Learning Engineer  
-![chacha.png](chacha.png)
+![hua_shi.png](hua_shi.png)
 - 🔭 I’m currently working on 🤖 [AI Chatbot Project](https://github.com/melanieshi0120/AI_Chatbot_Project)
 - 🌱 I’m currently learning  AWS and GCP 
 
