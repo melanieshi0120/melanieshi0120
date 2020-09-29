@@ -10,6 +10,9 @@ Machine Learning, and statistical skills as well as a passion for delivering val
 functions and data retrieval methods. 
 ## Languages
 Fluent in English 🇺🇸, Chinese 🇨🇳, and Korean 🇰🇷.
+
+- 少数民族中国人🇨🇳
+- 저의 한국 이름은 석화입니다 🇰🇷 
 ## Information
 [Email📬](melaniesoek0120@gmail.com)   [Blog🧾](https://medium.com/@melaniesoek0120)   [Linkedin👩](http://www.linkedin.com/in/melanieseok-huashi)
 ## Technical Skills
