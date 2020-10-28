@@ -32,6 +32,9 @@ Fluent in English 🇺🇸, Chinese 🇨🇳, and Korean 🇰🇷.
 - [PCA -_Facial_Recognition](https://github.com/melanieshi0120/Principal_Component_Analysis-PCA-_Facial_Recognition),
 - [DNA Variation Classification](https://github.com/melanieshi0120/DNA_project),
 - [Time Series Panel Data](https://github.com/melanieshi0120/DKHS)
-
+- [DNA Classification Project](https://github.com/melanieshi0120/DNA_project)
+- [NLP - Amazon Reviews- Model Stacking](https://github.com/melanieshi0120/NLP_Analysis_Amazon_Reviews)
+- [COVID-19 - LSTM - Time Series Panel Data](https://github.com/melanieshi0120/COVID-19_global_time_series_panel_data)
+- [Multi-Classification - KNN/RandomForest/DecsisionTree](https://github.com/melanieshi0120/Pump-it-Up-Data-Mining-the-Water-Table)
 
 
