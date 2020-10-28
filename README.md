@@ -17,7 +17,9 @@ Fluent in English 🇺🇸, Chinese 🇨🇳, and Korean 🇰🇷.
 - [Linkedin👩](http://www.linkedin.com/in/melanieseok-huashi)
 ## Technical Skills
 - **Programming&DataVisualization**:Python(Scikit-learn,Pandas,Numpy,Matplotlib,Seaborn,Plotly,NLTK,SciPy,PyTorch),R, Google Analytics, Excel, Tableau
+
 - **StatisticalTechniques&ML**: HypothesisTesting,A/BTesting,ANOVA,C​ hi-squareTesting,StatisticalModeling(Linear Regression, Polynomial Regression, Ridge and Lasso Regression, Logistic Regression, Time Series), Machine Learning (KNN, Random Forest, XGBoost, Support Vector Machines, Naive Bayes, Principal Component Analysis, Clustering, Recommendation Systems), Deep Learning(Keras, TensorFlow, Neural Network-CNN, RNN, LSTM), Natural Language Processing
+
 - **Other Technical Skills**: SQL, Apache Spark, Docker, Web Scraping, OOP(Object-oriented Programming), API Call, Git, GitHub
 ## Projects
 [Linear Regression](https://github.com/melanieshi0120/Agriculture_Project),
