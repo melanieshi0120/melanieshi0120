@@ -26,11 +26,11 @@ Fluent in English 🇺🇸, Chinese 🇨🇳, and Korean 🇰🇷.
 - **Other Technical Skills**: [SQL](https://udemy-certificate.s3.amazonaws.com/pdf/UC-a9c0dd81-97ed-4b18-9fc7-26eb592f644a.pdf), Apache Spark, Docker, Web Scraping, OOP(Object-oriented Programming), API Call, Git, GitHub
 
 ## Projects
-- [Linear Regression](https://github.com/melanieshi0120/Agriculture_Project),
-- [Califonia_suicide_project](https://github.com/melanieshi0120/Califonia_suicide_project),
-- [Intro_GitHub_API_Data_Extraction](https://github.com/melanieshi0120/Intro_GitHub_API_Data_Extraction),
-- [PCA -_Facial_Recognition](https://github.com/melanieshi0120/Principal_Component_Analysis-PCA-_Facial_Recognition),
-- [DNA Variation Classification](https://github.com/melanieshi0120/DNA_project),
+- [Linear Regression](https://github.com/melanieshi0120/Agriculture_Project)
+- [Califonia_suicide_project](https://github.com/melanieshi0120/Califonia_suicide_project)
+- [Intro_GitHub_API_Data_Extraction](https://github.com/melanieshi0120/Intro_GitHub_API_Data_Extraction)
+- [PCA -_Facial_Recognition](https://github.com/melanieshi0120/Principal_Component_Analysis-PCA-_Facial_Recognition)
+- [DNA Variation Classification](https://github.com/melanieshi0120/DNA_project)
 - [Time Series Panel Data](https://github.com/melanieshi0120/DKHS)
 - [DNA Classification Project](https://github.com/melanieshi0120/DNA_project)
 - [NLP - Amazon Reviews- Model Stacking](https://github.com/melanieshi0120/NLP_Analysis_Amazon_Reviews)
