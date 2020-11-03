@@ -1,11 +1,5 @@
-# Data Scientist | Data Engineer | Machine Learning Engineer  
-
-[<img align="left" alt="LinkedIn" width="80" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/linkedin.ico" />]( http://www.linkedin.com/in/melanieseok-huashi)
-[<img align="left" alt="Medium" width="80" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/medium.ico" />](https://melaniesoek0120.medium.com)
-[<img align="left" alt="1000hires" width="80" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/1000hires.ico" />](https://1000hires.com/candidates/466)
-
-
-### Introduction
+## Introduction
+![https://github.com/melanieshi0120/melanieshi0120/blob/master/chacha.png](https://github.com/melanieshi0120/melanieshi0120/blob/master/chacha.png)
 
 - 🔭 I’m currently working on 🤖 [AI Chatbot Project](https://github.com/melanieshi0120/AI_Chatbot_Project)
 - 🌱 I’m currently learning  AWS and GCP 
@@ -13,6 +7,13 @@
 
 Experience in data analysis, and machine learning with a Data Science background. Having earned a master’s degree in Economics has provided me a solid foundation and a good intuition in Machine Learning and Statistical Analysis. My previous roles offer me excellent communication skills and a great understanding of business, consumer behavior, and strategic decision making.
 functions and data retrieval methods. 
+
+### Connect with me:
+
+[<img align="left" alt="LinkedIn" width="80" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/linkedin.ico" />]( http://www.linkedin.com/in/melanieseok-huashi)
+[<img align="left" alt="Medium" width="80" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/medium.ico" />](https://melaniesoek0120.medium.com)
+[<img align="left" alt="1000hires" width="80" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/1000hires.ico" />](https://1000hires.com/candidates/466)
+<br />
 
 ### Languages and Tools
 
@@ -32,7 +33,10 @@ functions and data retrieval methods.
 <img align="left" alt="google_data_studio" width="50" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/images/google_data_studio.png" />
 <img align="left" alt="tableau" width="50" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/images/tableau.jpg" />
 
+<br />
+<br />
 
+---
 ### Technical Skills
 
 - **Programming & Data Visualization**: 
