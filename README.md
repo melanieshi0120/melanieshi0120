@@ -49,7 +49,7 @@ HypothesisTesting, A/BTesting, ANOVA, Chi-squareTesting, StatisticalModeling(Lin
 
 - **Other Technical Skills**: [SQL](https://udemy-certificate.s3.amazonaws.com/pdf/UC-a9c0dd81-97ed-4b18-9fc7-26eb592f644a.pdf), Apache Spark, Docker, Web Scraping, OOP(Object-oriented Programming), API Call, Git, GitHub
 ---
-### 📕Latest Blog Posts
+### Latest Blog Posts 📕
 
 - [Machine Learning for Dating Apps](https://medium.com/swlh/machine-learning-for-dating-apps-b02a6b1cee61)
 - [Data Science In Weight Loss Apps](https://melaniesoek0120.medium.com/data-science-in-weight-loss-apps-3658b6e81054)
