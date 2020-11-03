@@ -1,4 +1,4 @@
-# Hi there, I'm Hua Shi. Welcome to my GitHub!
+# Data Scientist | Data Engineer | Machine Learning Engineer  
 
 [<img align="left" alt="LinkedIn" width="80" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/linkedin.ico" />]( http://www.linkedin.com/in/melanieseok-huashi)
 
@@ -6,8 +6,7 @@
 
 [<img align="left" alt="1000hires" width="80" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/1000hires.ico" />](https://1000hires.com/candidates/466)
 
-#
-## Data Scientist | Data Engineer | Machine Learning Engineer  
+##
 
 - 🔭 I’m currently working on 🤖 [AI Chatbot Project](https://github.com/melanieshi0120/AI_Chatbot_Project)
 - 🌱 I’m currently learning  AWS and GCP 
@@ -18,16 +17,32 @@ Experience in data analysis, and machine learning with a Data Science background
 functions and data retrieval methods. 
 
 
-## Languages and Tools:
+## Languages and Tools
 
-
-
+<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img align="left" alt="R" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" />
+<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
+<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> 
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="GCP" width="80" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/images/GCP_LOG.png" />
+<img align="left" alt="AWS" width="50" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/images/AWS.jpeg" />
+<img align="left" alt="excel" width="25" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/images/excel.png" />
+<img align="left" alt="google_analytics" width="50" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/images/google_analytics.jpg" />
+<img align="left" alt="google_data_studio" width="50" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/images/google_data_studio.png" />
+<img align="left" alt="tableau" width="50" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/images/tableau.jpg" />
 
 
 ## Technical Skills
-- **Programming & Data Visualization**: Python(Scikit-learn, Pandas, Numpy, Matplotlib,Seaborn, Plotly, NLTK, SciPy, PyTorch), R, [Google Analytics](https://skillshop.exceedlms.com/student/award/58191870?referer=https%3A%2F%2Fskillshop.exceedlms.com%2Fstudent%2Fpath%2F2938%3Fuse_local%3Dtrue), Excel, [Tableau](https://udemy-certificate.s3.amazonaws.com/pdf/UC-D2VM8PS0.pdf), [Google Data Studio](https://datastudio.google.com/reporting/4ee545c3-090d-4c42-882e-a66c415d9b6e)
 
-- **Statistical Techniques&ML**: HypothesisTesting, A/BTesting, ANOVA, Chi-squareTesting, StatisticalModeling(Linear Regression, Polynomial Regression, Ridge and Lasso Regression, Logistic Regression, Time Series), Machine Learning (KNN, Random Forest, XGBoost, Support Vector Machines, Naive Bayes, Principal Component Analysis, Clustering, Recommendation Systems), Deep Learning(Keras, TensorFlow, Neural Network-CNN, RNN, LSTM), Natural Language Processing
+- **Programming & Data Visualization**: 
+Python(Scikit-learn, Pandas, Numpy, Matplotlib,Seaborn, Plotly, NLTK, SciPy, PyTorch), R, [Google Analytics](https://skillshop.exceedlms.com/student/award/58191870?referer=https%3A%2F%2Fskillshop.exceedlms.com%2Fstudent%2Fpath%2F2938%3Fuse_local%3Dtrue), Excel, [Tableau](https://udemy-certificate.s3.amazonaws.com/pdf/UC-D2VM8PS0.pdf), [Google Data Studio](https://datastudio.google.com/reporting/4ee545c3-090d-4c42-882e-a66c415d9b6e)
+
+- **Statistical Techniques&ML**:
+HypothesisTesting, A/BTesting, ANOVA, Chi-squareTesting, StatisticalModeling(Linear Regression, Polynomial Regression, Ridge and Lasso Regression, Logistic Regression, Time Series), Machine Learning (KNN, Random Forest, XGBoost, Support Vector Machines, Naive Bayes, Principal Component Analysis, Clustering, Recommendation Systems), Deep Learning(Keras, TensorFlow, Neural Network-CNN, RNN, LSTM), Natural Language Processing
 
 - **Other Technical Skills**: [SQL](https://udemy-certificate.s3.amazonaws.com/pdf/UC-a9c0dd81-97ed-4b18-9fc7-26eb592f644a.pdf), Apache Spark, Docker, Web Scraping, OOP(Object-oriented Programming), API Call, Git, GitHub
 
