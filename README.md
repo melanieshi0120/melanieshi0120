@@ -30,9 +30,9 @@ functions and data retrieval methods.
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="GCP" width="80" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/images/GCP_LOG.png" />
 <img align="left" alt="AWS" width="50" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/images/AWS.jpeg" />
-<img align="left" alt="google_analytics" width="70" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/images/google_analytics.jpg" />
-<img align="left" alt="google_data_studio" width="70" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/images/google_data_studio.png" />
-<img align="left" alt="tableau" width="70" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/images/tableau.jpg" />
+<img align="left" alt="google_analytics" width="60" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/images/google_analytics.jpg" />
+<img align="left" alt="google_data_studio" width="60" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/images/google_data_studio.png" />
+<img align="left" alt="tableau" width="60" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/images/tableau.jpg" />
 
 <br />
 <br />
