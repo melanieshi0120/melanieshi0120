@@ -28,11 +28,11 @@ functions and data retrieval methods.
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="GCP" width="55" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/images/GCP_LOG.png" />
+<img align="left" alt="GCP" width="40" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/images/GCP_LOG.png" />
 <img align="left" alt="AWS" width="55" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/images/AWS.jpeg" />
-<img align="left" alt="google_analytics" width="50" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/images/google_analytics.png" />
-<img align="left" alt="google_data_studio" width="50" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/images/google_data_studio.png" />
-<img align="left" alt="tableau" width="50" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/images/tableau.png" />
+<img align="left" alt="google_analytics" width="55" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/images/google_analytics.png" />
+<img align="left" alt="google_data_studio" width="55" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/images/google_data_studio.png" />
+<img align="left" alt="tableau" width="55" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/images/tableau.png" />
 
 <br />
 <br />
