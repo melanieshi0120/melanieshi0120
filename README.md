@@ -29,25 +29,32 @@ Experience in data analysis, and machine learning with a Data Science background
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+
+<br />
+
+
 <img align="left" alt="GCP" width="40" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/images/GCP_LOG.png" />
 <img align="left" alt="AWS" width="55" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/images/AWS.jpeg" />
 <img align="left" alt="google_analytics" width="55" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/images/google_analytics.png" />
 <img align="left" alt="google_data_studio" width="55" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/images/google_data_studio.png" />
-
-<br />
-<br />
-
 <img align="left" alt="tableau" width="55" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/images/tableau.png" />
 <img align="left" alt="colab" width="40" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/images/colab.png" />
 <img align="left" alt="numpy" width="30" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/images/numpy.png" />
 <img align="left" alt="pandas" width="40" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/images/pandas.png" />
 <img align="left" alt="sklearn" width="40" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/images/sklearn.png" />
+
+<br />
+<br />
+
 <img align="left" alt="spark-logo-trademark" width="40" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/images/spark-logo-trademark.png" />
 <img align="left" alt="Jupyter_logo" width="30" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/images/Jupyter_logo.png" />
 <img align="left" alt="ploty" width="30" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/images/ploty.png" />
 <img align="left" alt="matplotlib_logo" width="50" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/images/matplotlib_logo.png" />
 <img align="left" alt="scipy" width="50" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/images/scipy.png" />
 <img align="left" alt="PyTorch" class="center" width="50" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/images/PyTorch.png" />
+<img align="left" alt="tensorflow" class="center" width="30" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/images/tensorflow.png" />
+<img align="left" alt="keras" class="center" width="30" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/images/keras.png" />
+<img align="left" alt="excel" class="center" width="30" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/images/excel.png" />
 
 <br />
 <br />
