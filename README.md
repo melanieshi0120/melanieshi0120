@@ -42,14 +42,11 @@ Experience in data analysis, and machine learning with a Data Science background
 <img align="left" alt="tableau" width="55" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/images/tableau.png" />
 <img align="left" alt="Jupyter_logo" width="30" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/images/Jupyter_logo.png" />
 <img align="left" alt="spark-logo-trademark" width="40" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/images/spark-logo-trademark.png" />
-
-<img align="left" alt="numpy" width="30" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/images/numpy.png" />
-<img align="left" alt="pandas" width="40" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/images/pandas.png" />
-<img align="left" alt="sklearn" width="40" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/images/sklearn.png" />
 <img align="left" alt="excel" class="center" width="30" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/images/excel.png" />
 
 <br />
 <br />
+
 <img align="left" alt="numpy" width="30" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/images/numpy.png" />
 <img align="left" alt="pandas" width="40" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/images/pandas.png" />
 <img align="left" alt="sklearn" width="40" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/images/sklearn.png" />
