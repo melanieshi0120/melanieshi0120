@@ -97,5 +97,6 @@ HypothesisTesting, A/BTesting, ANOVA, Chi-squareTesting, StatisticalModeling(Lin
 - [🦠 COVID-19 - LSTM - Time Series Panel Data](https://github.com/melanieshi0120/COVID-19_global_time_series_panel_data)
 - [Multi-Classification - KNN/RandomForest/DecsisionTree](https://github.com/melanieshi0120/Pump-it-Up-Data-Mining-the-Water-Table)
 
+➡️ [more projects...](https://github.com/melanieshi0120?tab=repositories)
 ---
 ![Hua's github stats](https://github-readme-stats.vercel.app/api?username=melanieshi0120&show_icons=true)
