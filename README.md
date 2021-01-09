@@ -1,8 +1,9 @@
 ## Introduction
-- 🔭 I’m currently working on 🤖 [AI Chatbot Project](https://github.com/melanieshi0120/AI_Chatbot_Project)
-- 🌱 I’m currently learning  AWS and GCP 
--  ⚡ Fun fact: I am trilingual - fluent in English 🇺🇸, Chinese 🇨🇳, and Korean 🇰🇷
-- 🏋️ Workout everyday!
+
+- 🔭  I’m currently working @ H1 as a Junior Data Analyst
+- 🌱 I’m currently learning GCP and Associate Cloud Engineer exam
+- ⚡ Fun fact: I am trilingual - fluent in English 🇺🇸, Chinese 🇨🇳, and Korean 🇰🇷
+- 🏋️ Workout every day!
 - 🏅 Black belt Taekwondo athlete 15 years ago
 
 Experience in data analysis, and machine learning with a Data Science background. Having earned a master’s degree in Economics has provided me a solid foundation and a good intuition in Machine Learning and Statistical Analysis. My previous roles offer me excellent communication skills and a great understanding of business, consumer behavior, and strategic decision making.
