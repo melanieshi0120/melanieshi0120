@@ -1,7 +1,7 @@
 ## Introduction
 
 - 🔭  I’m currently working @ H1 as a Junior Data Analyst
-- 🌱 I’m currently learning GCP and Associate Cloud Engineer exam
+- 🌱 I’m currently learning GCP and preparing Associate Cloud Engineer exam
 - ⚡ Fun fact: I am trilingual - fluent in English 🇺🇸, Chinese 🇨🇳, and Korean 🇰🇷
 - 🏋️ Workout every day!
 - 🏅 Black belt Taekwondo athlete 15 years ago
