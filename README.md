@@ -1,6 +1,6 @@
 ## Introduction
 
-- 🔭  I’m currently working @ H1 as a Data Analyst
+- 🔭  I’m currently working @ Northwestern Mutual as a Data Engineer
 - ⚡ Fun fact: I am trilingual - fluent in English 🇺🇸, Chinese 🇨🇳, and Korean 🇰🇷
 - 🏋️ Workout every day!
 
