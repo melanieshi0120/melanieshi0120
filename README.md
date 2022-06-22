@@ -21,9 +21,10 @@ Experience in data engineering, data analysis, and machine learning with a Data 
 
 ### Certificates
 
-[<img align="left" alt="scaled_practitioner" width="60" src="https://images.credly.com/size/680x680/images/f0adcc07-4388-459f-9b98-9a487ff1e8fd/cert_mark_SP_badge_large_300px.png" />](https://www.credly.com/badges/7b4b0de0-493d-45db-babe-b32241c8c845?source=linked_in_profile)
+[<img align="left" alt="scaled_practitioner" width="80" src="https://images.credly.com/size/680x680/images/f0adcc07-4388-459f-9b98-9a487ff1e8fd/cert_mark_SP_badge_large_300px.png" />](https://www.credly.com/badges/7b4b0de0-493d-45db-babe-b32241c8c845?source=linked_in_profile)
 [<img align="left" alt="databrciks_fundamental" width="60" src="https://templates.images.credential.net/16509948849242752807044385742422.png" />](https://credentials.databricks.com/91c0c105-98ad-4a81-9b06-26552b157cd7)
-[<img align="left" alt="aws_practitioner" width="60" src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" />](https://www.credly.com/badges/6d85c807-f0b3-4c42-9528-f1f269446761?source=linked_in_profile)
+[<img align="left" alt="aws_practitioner" width="80" src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" />](https://www.credly.com/badges/6d85c807-f0b3-4c42-9528-f1f269446761?source=linked_in_profile)
+<br>
 <br />
 <br />
 
