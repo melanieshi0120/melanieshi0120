@@ -4,14 +4,27 @@
 - ⚡ Fun fact: I am trilingual - fluent in English 🇺🇸, Chinese 🇨🇳, and Korean 🇰🇷
 - 🏋️ Workout every day!
 
-Experience in data analysis, and machine learning with a Data Science background. Having earned a master’s degree in Economics has provided me a solid foundation and a good intuition in Machine Learning and Statistical Analysis. My previous roles offer me excellent communication skills and a great understanding of business, consumer behavior, and strategic decision making.
+Experience in data engineering, data analysis, and machine learning with a Data Science background. Having earned a master’s degree in Economics has provided me a solid foundation and a good intuition in Machine Learning and Statistical Analysis. My previous roles offer me excellent communication skills and a great understanding of business, consumer behavior, and strategic decision making.
+<br />
+<br />
 
 ---
 
 ### Connect with me
 
-[<img align="left" alt="LinkedIn" width="80" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/linkedin.ico" />]( http://www.linkedin.com/in/melanieseok-huashi)
-[<img align="left" alt="Medium" width="80" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/medium.ico" />](https://melaniesoek0120.medium.com)
+[<img align="left" alt="LinkedIn" width="100" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/linkedin.ico" />]( http://www.linkedin.com/in/melanieseok-huashi)
+[<img align="left" alt="Medium" width="100" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/medium.ico" />](https://melaniesoek0120.medium.com)
+<br />
+<br />
+
+---
+
+### Certificates
+
+[<img align="left" alt="scaled_practitioner" width="60" src="https://images.credly.com/size/680x680/images/f0adcc07-4388-459f-9b98-9a487ff1e8fd/cert_mark_SP_badge_large_300px.png" />](https://www.credly.com/badges/7b4b0de0-493d-45db-babe-b32241c8c845?source=linked_in_profile)
+[<img align="left" alt="databrciks_fundamental" width="60" src="https://templates.images.credential.net/16509948849242752807044385742422.png" />](https://credentials.databricks.com/91c0c105-98ad-4a81-9b06-26552b157cd7)
+[<img align="left" alt="aws_practitioner" width="60" src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" />](https://www.credly.com/badges/6d85c807-f0b3-4c42-9528-f1f269446761?source=linked_in_profile)
+<br />
 <br />
 
 ---
