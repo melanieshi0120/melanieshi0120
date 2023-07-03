@@ -1,8 +1,10 @@
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
 ## Introduction
 
-<div align="center">
-  <img src="https://as1.ftcdn.net/v2/jpg/03/45/31/28/1000_F_345312834_y1esquNNNnxZumL9UwVTnzg7qpeb95Dx.jpg" width="1200" height="300"/>
-</div>
 ### :woman_technologist: About Me :
 
 - 🔭  I’m currently working @ Northwestern Mutual as a Data Engineer
