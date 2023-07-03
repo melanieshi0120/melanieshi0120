@@ -92,4 +92,4 @@ HypothesisTesting, A/BTesting, ANOVA, Chi-squareTesting, StatisticalModeling(Lin
 
 ---
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=melanieshi0120&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=melanieshi0120)](https://git.io/streak-stats)
